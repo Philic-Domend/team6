@@ -1,0 +1,5 @@
+flexgen
+protobuf==3.20.3
+huggingface-hub==0.20.3
+accelerate==0.24.1
+transformers==4.35.2 \
